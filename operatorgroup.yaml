@@ -3,6 +3,4 @@ kind: OperatorGroup
 metadata:
   name: openshift-adp
   namespace: openshift-adp
-spec: 
-  targetNamespaces: 
-  - openshift-adp
+spec: {}
