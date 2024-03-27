@@ -11,3 +11,4 @@ spec:
   name: redhat-oadp-operator
   source: redhat-operators
   sourceNamespace: openshift-marketplace
+  startingCSV: oadp-operator.v1.3.0
